@@ -72,6 +72,7 @@ function App() {
         Made with 💙🤍 by{" "}
         <a className="link" target="blank" href="https://github.com/OssamaLouati/">
           Louati
+        </a>
       </h4>
     </div>
   );
