@@ -71,8 +71,7 @@ function App() {
       <h4 className="footer">
         Made with 💙🤍 by{" "}
         <a className="link" target="blank" href="https://github.com/OssamaLouati/">
-          LouatiB3G
-        </a>
+          Louati
       </h4>
     </div>
   );
