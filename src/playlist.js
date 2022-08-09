@@ -1,14 +1,36 @@
 import { v4 as uuidv4 } from "uuid";
-import son from './ac.mp3';
+import song1 from  './assets/UBI CHANTS/01 3AYCHIN MOLOUK.mp3';
+import song2 from  './assets/UBI CHANTS/02 F LA CURVA.mp3';
+import song3 from  './assets/UBI CHANTS/03 EMISTE YA DEMDOUMA.mp3';
+import song4 from  './assets/UBI CHANTS/04 NSINI F DENYA.mp3';
+import song5 from  './assets/UBI CHANTS/05 NIKO L INSEA.mp3';
+import song6 from  './assets/UBI CHANTS/06 MI CORAZON.mp3';
+import song7 from  './assets/UBI CHANTS/07 RYE7 YA L BNAY.mp3';
+import song8 from  './assets/UBI CHANTS/08 ZER9A MI AMORE.mp3';
+import song9 from  './assets/UBI CHANTS/09 LYUM KI L3ADA.mp3';
+import song10 from './assets/UBI CHANTS/10 SIAMO L INPT.mp3';
+import song11 from './assets/UBI CHANTS/11 BI MECORASSON.mp3';
+import song12 from './assets/UBI CHANTS/12 COURAGE.mp3';
+import song13 from './assets/UBI CHANTS/13 ZER9A W L BAYDA.mp3';
+import song14 from './assets/UBI CHANTS/14 OBRIGADO CAMPIONE.mp3';
+import song15 from './assets/UBI CHANTS/15 VAMOS.mp3';
+import song16 from './assets/UBI CHANTS/16 JINAKOM JINA.mp3';
+import song17 from './assets/UBI CHANTS/17 UNIDOS.mp3';
+import song18 from './assets/UBI CHANTS/18 SANS ARRET.mp3';
+import song19 from './assets/UBI CHANTS/19 LA STORIA GRANDE.mp3';
+import song20 from './assets/UBI CHANTS/20 HONORE LBANDERA.mp3';
+import song21 from './assets/UBI CHANTS/21 NASSI DENYA.mp3';
+import song22 from './assets/UBI CHANTS/22 CRAZY PUBLICO.mp3';
+import song23 from './assets/UBI CHANTS/23 SENZA FINE.mp3';
+import cover from './assets/images/cover.jpg';
 function chillHop() {
   return [
     {
       name: "Oasis",
-      cover:
-        "https://chillhop.com/wp-content/uploads/2020/11/f78c39b4bb6313ddd0354bef896c591bfb490ff8-1024x1024.jpg",
+      cover: cover ,
       artist: "Makzo",
-      audio: son,
-      color: ["#47609D", "#E88774"],
+      audio: song1,
+      color: ["#06424D", "#A1C0EE"],
       id: uuidv4(),
       active: true,
     },
