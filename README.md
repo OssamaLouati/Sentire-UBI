@@ -20,7 +20,7 @@ UBI makes us live the vibe of belonging as we sing with one voice from our heart
 <br>
 <p align="center">
   <img  src="src/assets/images/screen 1.png">
-  <img  src="src/assets/images/screen 2.PNG">
+  <img  src="src/assets/images/screen2.PNG">
 </p>
 
 ---
