@@ -23,6 +23,7 @@ import song21 from './assets/UBI CHANTS/21 NASSI DENYA.mp3';
 import song22 from './assets/UBI CHANTS/22 CRAZY PUBLICO.mp3';
 import song23 from './assets/UBI CHANTS/23 SENZA FINE.mp3';
 import cover from './assets/images/cover.jpg';
+
 function chillHop() {
   return [
     {
@@ -33,6 +34,35 @@ function chillHop() {
       color: ["#06424D", "#A1C0EE"],
       id: uuidv4(),
       active: true,
+    },
+    {
+      name: "UNIDOS",
+      cover: cover ,
+      artist: "Ultras Bleu Ines",
+      audio: song17,
+      color: ["#06424D", "#A1C0EE"],
+      id: uuidv4(),
+      active: false,
+    },
+    
+    {
+      name: "CRAZY PUBLICO",
+      cover: cover ,
+      artist: "Ultras Bleu Ines",
+      audio: song22,
+      color: ["#06424D", "#A1C0EE"],
+      id: uuidv4(),
+      active: false,
+    },
+    
+    {
+      name: "HONORE LBANDERA",
+      cover: cover ,
+      artist: "Ultras Bleu Ines",
+      audio: song20,
+      color: ["#06424D", "#A1C0EE"],
+      id: uuidv4(),
+      active: false,
     },
     
     {
@@ -186,16 +216,6 @@ function chillHop() {
     },
     
     {
-      name: "UNIDOS",
-      cover: cover ,
-      artist: "Ultras Bleu Ines",
-      audio: song17,
-      color: ["#06424D", "#A1C0EE"],
-      id: uuidv4(),
-      active: false,
-    },
-    
-    {
       name: "SANS ARRET",
       cover: cover ,
       artist: "Ultras Bleu Ines",
@@ -216,16 +236,6 @@ function chillHop() {
     },
     
     {
-      name: "HONORE LBANDERA",
-      cover: cover ,
-      artist: "Ultras Bleu Ines",
-      audio: song20,
-      color: ["#06424D", "#A1C0EE"],
-      id: uuidv4(),
-      active: false,
-    },
-    
-    {
       name: "NASSI DENYA",
       cover: cover ,
       artist: "Ultras Bleu Ines",
@@ -236,17 +246,7 @@ function chillHop() {
     },
     
     {
-      name: "CRAZY PUBLICO",
-      cover: cover ,
-      artist: "Ultras Bleu Ines",
-      audio: song22,
-      color: ["#06424D", "#A1C0EE"],
-      id: uuidv4(),
-      active: false,
-    },
-    
-    {
-      name: "SENZA FINE",
+      name: "SENZA FINE ",
       cover: cover ,
       artist: "Ultras Bleu Ines",
       audio: song23,

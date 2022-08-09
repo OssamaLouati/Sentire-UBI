@@ -7,7 +7,7 @@ import Library from "./components/Library";
 import Nav from "./components/Nav";
 
 function App() {
-  
+
   const [songs, setSongs] = useState(data());
   const [currentSong, setCurrentSong] = useState(songs[0]);
   const [isPlaying, setIsPlaying] = useState(false);
@@ -69,9 +69,9 @@ function App() {
         onEnded={songEndHandler}
       ></audio>
       <h4 className="footer">
-        Made with ❤️️ by{" "}
-        <a className="link" href="https://github.com/choubari/">
-          Choubari
+        Made with 💙🤍 by{" "}
+        <a className="link" target="blank" href="https://github.com/OssamaLouati/">
+          LouatiB3G
         </a>
       </h4>
     </div>
