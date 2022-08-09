@@ -7,6 +7,7 @@ import Library from "./components/Library";
 import Nav from "./components/Nav";
 
 function App() {
+  
   const [songs, setSongs] = useState(data());
   const [currentSong, setCurrentSong] = useState(songs[0]);
   const [isPlaying, setIsPlaying] = useState(false);
