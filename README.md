@@ -15,12 +15,12 @@ UBI makes us live the vibe of belonging as we sing with one voice from our heart
 ## Test it yourself
 - [Live DEMO](https://ubi-09.vercel.app/)
 
-## Screenshots :
+## About the Project :
 
 <br>
 <p align="center">
   <img  src="src/assets/images/screen 1.png">
-  <img  src="src/assets/images/screen 2.png">
+  <img  src="src/assets/images/screen 2.PNG">
 </p>
 
 ---
