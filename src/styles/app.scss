@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1,
+h2,
+h3 {
+  color: rgb(54, 54, 54);
+}
+body {
+  font-family: "Lato", sans-serif;
+}
+h3,
+h4 {
+  font-weight: 400;
+  color: rgb(100, 100, 100);
+}
+.App {
+  transition: all 0.5s ease;
+}
+.library-active {
+  margin-left: 20%;
+}
+
+.footer {
+  font-weight: 600;
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  padding: 2rem;
+  @media screen and (max-width: 768px) {
+    padding: 1rem;
+  }
+}
+
+.link {
+  text-decoration: none;
+}
+
+@import "./song";
+@import "./player";
+@import "./library";
+@import "./nav";
