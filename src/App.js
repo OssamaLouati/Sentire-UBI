@@ -69,10 +69,7 @@ function App() {
         onEnded={songEndHandler}
       ></audio>
       <h4 className="footer">
-        Made with 💙🤍 by{" "}
-        <a className="link" target="blank" href="https://github.com/OssamaLouati/">
-          Louati
-        </a>
+        Made with 💙🤍 by{" "} INE
       </h4>
     </div>
   );
