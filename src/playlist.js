@@ -33,6 +33,38 @@ function chillHop() {
       audio: song1,
       color: ["#06424D", "#A1C0EE"],
       id: uuidv4(),
+      lyrics:[
+        {
+          lyric:"3aychin molouk mna rah yghiroo"
+        },
+        {
+          lyric:"Ga3 les ecoles fina rah y7iro "
+        },
+        {
+          lyric:"Ch7al 9assaw m3ana mazal liyam mazal"
+        },
+        {
+          lyric:"Ytle3 niveau machi ki bouzebal"
+        },
+        {
+          lyric:"Ya lbenay o ya lbenay ya li 3ayech b lghaba"
+        },
+        {
+          lyric:"Dik l’ecole jm3at les gay ch7al fiha dial l3enaba"
+        },
+        {
+          lyric:"Ya lfella7 o ya lfella7 ya li 3ayeh f lkouri"
+        },
+        {
+          lyric:"Fo9 tben na3ess mrta7 ysre7 djaj f nebbouri"
+        },
+        {
+          lyric:"ya tricien o ya tricien ya li 3ayech f l7ofra"
+        },
+        {
+          lyric:"west journée baghi tban o tnessi rasek f l7ogra"
+        },
+      ],
       active: true,
     },
     {
@@ -42,6 +74,35 @@ function chillHop() {
       audio: song17,
       color: ["#06424D", "#A1C0EE"],
       id: uuidv4(),
+      lyrics:[
+        {
+          lyric:"ya men nhar tla9ina"
+        },
+        {
+          lyric:"yed we7da rah b9ina family "
+        },
+        {
+          lyric:"Jem3tna UBI ziina"
+        },
+        {
+          lyric:"hiya li tzehina a jamais"
+        },
+        {
+          lyric:"ay wa7ed harebna l9ana solidaire"
+        },
+        {
+          lyric:"UNIDOS oli sar ysiiir"
+        },
+        {
+          lyric:"haja matfere9na li binatna kbiir"
+        },
+        {
+          lyric:"3la chanha randiro la geurre"
+        },
+        {
+          lyric:"Allez Bleu Ines Alleeez (x3) "
+        },
+      ],
       active: false,
     },
     
@@ -52,6 +113,78 @@ function chillHop() {
       audio: song22,
       color: ["#06424D", "#A1C0EE"],
       id: uuidv4(),
+      lyrics:[
+        {
+          lyric:"Les bleus bianco"
+        },
+        {
+          lyric:"Crazy publico"
+        },
+        {
+          lyric:"W3la zar9a nmootoo"
+        },
+        {
+          lyric:"BI ra danger"
+        },
+        {
+          lyric:"Kolchi ghaybouger"
+        },
+        {
+          lyric:"Vamos les tiifooziii"
+        },
+        {
+          lyric:"Wlalalalaaa lalalalaaa"
+        },
+        {
+          lyric:"Laalalalalalaaa"
+        },
+        {
+          lyric:"Ohoooo (x2)"
+        },
+        {
+          lyric:"Ohooohoohoo"
+        },
+        {
+          lyric:"Les blues ines (x2)"
+        },
+        {
+          lyric:"Fiesta wlcarnavaal"
+        },
+        {
+          lyric:"Lli ga3ed m3ana jamais yanssana"
+        },
+        {
+          lyric:"Ecolna anormaaal"
+        },
+        {
+          lyric:"Wlalalalalaaaa ohohohohoo (x2) "
+        },
+        {
+          lyric:"W 2009 bdina l'historya"
+        },
+        {
+          lyric:"Mn bkri zar9a gloria"
+        },
+        {
+          lyric:"Ndiro lahbal ncha3lo niraan"
+        },
+        {
+          lyric:"3la chanek ya lghalya"
+        },
+        {
+          lyric:"Wlalalalaa (x2) "
+        },
+        {
+          lyric:"Lalalalalaaa"
+        },
+        {
+          lyric:"Ohohoho (x2)"
+        },
+        {
+          lyric:"Ohohohohohooo"
+        },
+        
+      ],
       active: false,
     },
     
@@ -62,6 +195,59 @@ function chillHop() {
       audio: song20,
       color: ["#06424D", "#A1C0EE"],
       id: uuidv4(),
+      lyrics:[
+        {
+          lyric:"Lalalalalalala (x4)"
+        },
+        {
+          lyric:"Wlaalalalalala lalalalalala  dalé dalé dalé ohhh (x2)"
+        },
+        {
+          lyric:"Avanti ya lawlad honore lbandera"
+        },
+        {
+          lyric:"Defendiw les couleurs wtnod lguerra"
+        },
+        {
+          lyric:"Zar9a w bayda inchallah vencera"
+        },
+        {
+          lyric:"Ubi zahya zoomer l camera"
+        },
+        {
+          lyric:"Chaque partie cha3lin obligé "
+        },
+        {
+          lyric:"Fumigène autorisé"
+        },
+        {
+          lyric:"Mayakhla3na hetta 9anon"
+        },
+        {
+          lyric:"Chaque journée zahwa mesmouma "
+        },
+        {
+          lyric:"Loghat wellat mafhoma "
+        },
+        {
+          lyric:"Differente fl3al9liya"
+        },
+        {
+          lyric:"Lalalalla siempre fidile"
+        },
+        {
+          lyric:"Lalalalala mi corazon"
+        },
+        {
+          lyric:"Lalalalala ya chaghla bali"
+        },
+        {
+          lyric:"Lalalalala vince per noi"
+        },
+        {
+          lyric:"Wlaalalalalala lalalalalala  dalé dalé dalé ohhh (x2)"
+        },
+      ],  
       active: false,
     },
     
@@ -72,6 +258,35 @@ function chillHop() {
       audio: song2,
       color: ["#06424D", "#A1C0EE"],
       id: uuidv4(),
+      lyrics:[
+        {
+          lyric:"F la curva ytjem3o lee3zaraa"
+        },
+        {
+          lyric:"Les bleus ines lyouma ndiro 7aalaa"
+        },
+        {
+          lyric:"W fkol mkan 3omri wnti ray7aa"
+        },
+        {
+          lyric:"W nwli m3ak nchaalah w nti raab7aa"
+        },
+        {
+          lyric:"Aller aller aller les bleus alleeeer"
+        },
+        {
+          lyric:"Chanter bouger vibrew sans arrêt"
+        },
+        {
+          lyric:"W zar9a ntiya 3omri"
+        },
+        {
+          lyric:"nro7 m3ak w ndeplacer"
+        },
+        {
+          lyric:"Vamos inpt roma wla paris"
+        },
+      ], 
       active: false,
     },
     
@@ -82,6 +297,68 @@ function chillHop() {
       audio: song3,
       color: ["#06424D", "#A1C0EE"],
       id: uuidv4(),
+      lyrics:[
+        {
+          lyric:"L’Emste ya demdouma "
+        },
+        {
+          lyric:"Ya wlad l 7oukouma"
+        },
+        {
+          lyric:"Jamais tfout l7ouma Ra l colonel temma"
+        },
+        {
+          lyric:"{x2}"
+        },
+        {
+          lyric:"L’Enime 7télinaha Lguerra nwednaha"
+        },
+        {
+          lyric:"Hebsouna f terrain"
+        },
+        {
+          lyric:"3arfouna holigans"
+        },
+        {
+          lyric:"Bleu INEs kamikas"
+        },
+        {
+          lyric:"Oohoo (x3)"
+        },
+        {
+          lyric:"Allez Allez"
+        },
+        {
+          lyric:"Oohoo (x3)"
+        },
+        {
+          lyric:"On va gagner"
+        },
+        {
+          lyric:"Oohoo (x3)"
+        },
+        {
+          lyric:"Hiya 3omri"
+        },
+        {
+          lyric:"Nebghiha men soghri"
+        },
+        {
+          lyric:"w m3aha ndéplacii"
+        },
+        {
+          lyric:"L’EHTP mchina"
+        },
+        {
+          lyric:"L3edyan 7arou fina"
+        },
+        {
+          lyric:"Galou hadou chay3iin"
+        },
+        {
+          lyric:"F niveau rah harbin (x2)"
+        },
+      ],
       active: false,
     },
     
@@ -92,6 +369,44 @@ function chillHop() {
       audio: song4,
       color: ["#06424D", "#A1C0EE"],
       id: uuidv4(),
+      lyrics:[
+        {
+          lyric:"Nssini f denya l’avenir maysswach"
+        },
+        {
+          lyric:"W ntiya 3iniya bla bik ma vie mat7lach"
+        },
+        {
+          lyric:"Jouer (x2)"
+        },
+        {
+          lyric:"ya ma cherie"
+        },
+        {
+          lyric:"Dawwi 3linaa dawwi yak nti la lumiere"
+        },
+        {
+          lyric:"Ya zar9aa ya 3omrii"
+        },
+        {
+          lyric:"Jibouha ya lwlad"
+        },
+        {
+          lyric:"7adrin f ga3 les journees kil3ada ra zahyin"
+        },
+        {
+          lyric:"Mcha3linha f ga3 les ecoles flammat w femigeen"
+        },
+        {
+          lyric:"W tifowat w craquageat b niveau ra hezat"
+        },
+        {
+          lyric:"Bleu ine ra 7ekmat w fga3 journiyat"
+        },
+        {
+          lyric:"W la la la la la la la la la la la laaa.."
+        },
+      ], 
       active: false,
     },
     
@@ -102,6 +417,47 @@ function chillHop() {
       audio: song5,
       color: ["#06424D", "#A1C0EE"],
       id: uuidv4(),
+      lyrics:[
+        {
+          lyric:"Ohoooo ohooo voliamo l7oria "
+        },
+        {
+          lyric:"Ohoooo ohooo 3a9lia 3onsoria"
+        },
+        {
+          lyric:"Ohoooo ohooo niko l’insea"
+        },
+        {
+          lyric:"O ghir rebbi y7kem fia"
+        },
+        {
+          lyric:"O liberta nchlh lia "
+        },
+        {
+          lyric:"Hada attack l l3edian li rana nkarhohom"
+        },
+        {
+          lyric:"Hada message l7ssasasbi o bghina n3elmouhom"
+        },
+        {
+          lyric:"Wlh jamais tweslona ka ndiro li 3lina"
+        },
+        {
+          lyric:"Zar9a o lbayda nbghiwha nefdiwha b rwa7na"
+        },
+        {
+          lyric:"Les bleu ine les kamikass jihad 3la les couleurs"
+        },
+        {
+          lyric:"Rou7 m3ak l kol place  toujours avec honneur"
+        },
+        {
+          lyric:"Ultras mentalite voliamo liberte"
+        },
+        {
+          lyric:"BI chaque journee presente"
+        },
+      ],
       active: false,
     },
     
@@ -112,6 +468,35 @@ function chillHop() {
       audio: song6,
       color: ["#06424D", "#A1C0EE"],
       id: uuidv4(),
+      lyrics:[
+        {
+          lyric:"BI MI CORAZON"
+        },
+        {
+          lyric:"o 3liha rani ngheni"
+        },
+        {
+          lyric:"Mi vida mi passion"
+        },
+        {
+          lyric:"o hwaha rah f demi"
+        },
+        {
+          lyric:"{x2}"
+        },
+        {
+          lyric:"Bougezz (x2)"
+        },
+        {
+          lyric:"Lalalalalalalalaaah (x2) "
+        },
+        {
+          lyric:"Bougezz (x2)"
+        },
+        {
+          lyric:"Lalalalalalalalaaah (x2) "
+        },
+      ], 
       active: false,
     },
     
@@ -122,6 +507,47 @@ function chillHop() {
       audio: song7,
       color: ["#06424D", "#A1C0EE"],
       id: uuidv4(),
+      lyrics:[
+        {
+          lyric:"ohhhh rayyeh ya lbennay"
+        },
+        {
+            lyric:"tferrej wskoot bleu INEs rah jaw"
+        },
+        {
+            lyric:"(x2)"
+        },
+        {
+            lyric:"w eeehhh rayyeh ya lbennay"
+        },
+        {
+            lyric:"w 3 mars journiyat salaaw "
+        },
+        {
+            lyric:"w eeehhh rayyeh ya lbennay"
+        },
+        {
+            lyric:"w 2016 jaamais tansaaat"
+        },
+        {
+            lyric:"Bleus INEs makayench m3aamen"
+        },
+        {
+            lyric:"Blues INEs bennaya ghir demaadem"
+        },
+        {
+            lyric:"(x2)"
+        },
+        {
+            lyric:"way way way lowkan 3endi lafrada"
+        },
+        {
+            lyric:"way way way wntiri fl3ennaaba"
+        },
+        {
+            lyric:"(x2)"
+        }
+      ], 
       active: false,
     },
     
@@ -132,6 +558,35 @@ function chillHop() {
       audio: song8,
       color: ["#06424D", "#A1C0EE"],
       id: uuidv4(),
+      lyrics:[
+        {
+          lyric:"Zar9a mi amore (clap x5)"
+      },
+      {
+          lyric:"wakha yasra lli saarr (clap x5)"
+      },
+      {
+          lyric:"amoure à l'infinii (clap x5)"
+      },
+      {
+          lyric:"wm3ak hetal la9baarr (clap x5)"
+      },
+      {
+          lyric:"wmn seghri passioonnéee (clap x5)"
+      },
+      {
+          lyric:"maywa99efna 9aanoon (clap x5)"
+      },
+      {
+          lyric:"ya zaahi wma3la baalii (clap x5)"
+      },
+      {
+          lyric:"winma mchina ndiro lhoooooool"
+      },
+      {
+          lyric:"Allez allez allezzzz (x4)"
+      }
+      ],
       active: false,
     },
     
@@ -142,6 +597,32 @@ function chillHop() {
       audio: song9,
       color: ["#06424D", "#A1C0EE"],
       id: uuidv4(),
+      lyrics:[
+        {
+          lyric:"wlyom kil3aada mnl3irfan jina (clap x3)"
+      },
+      {
+          lyric:"zar9a wlbaayda w3liha ghannina (clap x3)"
+      },
+      {
+          lyric:"m3a l'INPT ndiro lli 3lina (clap x3)"
+      },
+      {
+          lyric:"jamais twaslooona ghir fotoonaa (clap x3)"
+      },
+      {
+          lyric:"les bleus INEs hiya lli tzahhina (clap x3)"
+      },
+      {
+          lyric:"(x2)"
+      },
+      {
+          lyric:"Allez allez allez allez allez (clap x3) (x3)"
+      },
+      {
+          lyric:"les bleus INEs jawkom mn l'INPT"
+      },
+      ],
       active: false,
     },
     
@@ -152,6 +633,29 @@ function chillHop() {
       audio: song10,
       color: ["#06424D", "#A1C0EE"],
       id: uuidv4(),
+      lyrics:[
+      {
+          lyric:"les bleus INEs allez allez allez allez allez (x2)"
+      },
+      {
+          lyric:"Siamo l'INPT"
+      },
+      {
+          lyric:"wm3aha ra presente"
+      },
+      {
+          lyric:"a la vida a la muerte a la muerte a la muerte"
+      },
+      {
+          lyric:"(x2)"
+      },
+      {
+          lyric:"lalalallallallalla lla lla lla lla lla lla lla allez (x2)"
+      },
+      {
+          lyric:"oohoo oho oho oho oho oho ohoo ohoooo"
+      },
+      ],
       active: false,
     },
     
@@ -162,6 +666,32 @@ function chillHop() {
       audio: song11,
       color: ["#06424D", "#A1C0EE"],
       id: uuidv4(),
+      lyrics:[
+        {
+          lyric:"BI mi corazon"
+      },
+      {
+          lyric:"w3liha rani nghanni"
+      },
+      {
+          lyric:"mi vida mi passion"
+      },
+      {
+          lyric:"whwaha rah hebbelnii"
+      },
+      {
+          lyric:"(x2)"
+      },
+      {
+          lyric:"bouugez bouugez"
+      },
+      {
+          lyric:"lalalallallallalla"
+      },
+      {
+          lyric:"(x2)"
+      },
+      ],
       active: false,
     },
     
@@ -172,6 +702,38 @@ function chillHop() {
       audio: song12,
       color: ["#06424D", "#A1C0EE"],
       id: uuidv4(),
+      lyrics:[
+      {
+          lyric:"Couuuurage nsarna ya reebbi"
+      },
+      {
+          lyric:"BI lyoma lli tzahhiinaa"
+      },
+      {
+          lyric:"paaaquetage rayeh mtriiper"
+      },
+      {
+          lyric:"hetta chi journée makhlliinaaa"
+      },
+      {
+          lyric:"kif casa kif rbat"
+      },
+      {
+          lyric:"wakha tachbak ratt"
+      },
+      {
+          lyric:"mayhammonach les exaams maykhaal3ona"
+      },
+      {
+          lyric:"jamais nghib nhar"
+      },
+      {
+          lyric:"m3ak hetta la9bar"
+      },
+      {
+          lyric:"mn écoole l écoole y3aarfona"
+      },
+      ],
       active: false,
     },
     
@@ -182,6 +744,41 @@ function chillHop() {
       audio: song13,
       color: ["#06424D", "#A1C0EE"],
       id: uuidv4(),
+      lyrics:[
+        {
+          lyric:"Zaaar9a wlbaayda"
+      },
+      {
+          lyric:"3liha rah majmou3iin"
+      },
+      {
+          lyric:"winma rahet (clap x2)"
+      },
+      {
+          lyric:"nroh m3aha (clap x2)"
+      },
+      {
+          lyric:"jamais nsamhoo fiiihaa (clap x2)"
+      },
+      {
+          lyric:"aamoure éternel (clap x2)"
+      },
+      {
+          lyric:"biha rah yajmaa3naaa (clap x2)"
+      },
+      {
+          lyric:"l'INPT (clap x2)"
+      },
+      {
+          lyric:"chaghla bali (clap x2)"
+      },
+      {
+          lyric:"l3icha fiha tahlaa liii (clap x2)"
+      },
+      {
+          lyric:"oohohohoho (x5)"
+      },
+      ],
       active: false,
     },
     
@@ -192,6 +789,38 @@ function chillHop() {
       audio: song14,
       color: ["#06424D", "#A1C0EE"],
       id: uuidv4(),
+      lyrics:[
+      {
+          lyric:"Obrigaado campeone"
+      },
+      {
+          lyric:"nchallah ziiina"
+      },
+      {
+          lyric:"ncha3lo denya ndiro lhool"
+      },
+      {
+          lyric:"zar9a tzahhinaa"
+      },
+      {
+          lyric:"(x2)"
+      },
+      {
+          lyric:"Oooh bleu ine"
+      },
+      {
+          lyric:"mahbool ma3la baalo"
+      },
+      {
+          lyric:"Oooh bleu ine"
+      },
+      {
+          lyric:"f journée kolchi dyaaaloo"
+      },
+      {
+          lyric:"(x2)"
+      }
+      ],
       active: false,
     },
     
@@ -202,6 +831,23 @@ function chillHop() {
       audio: song15,
       color: ["#06424D", "#A1C0EE"],
       id: uuidv4(),
+      lyrics:[
+      {
+          lyric:"lalallalla vamos"
+      },
+      {
+          lyric:"lalallalla chicos"
+      },
+      {
+          lyric:"lalallalla laa laa laa"
+      },
+      {
+          lyric:"(x2)"
+      },
+      {
+          lyric:"ohoho oho oo oho oho oo oho oho oo (x2)"
+      },
+      ],
       active: false,
     },
     
@@ -212,6 +858,35 @@ function chillHop() {
       audio: song16,
       color: ["#06424D", "#A1C0EE"],
       id: uuidv4(),
+      lyrics:[
+      {
+          lyric:"Allez allez"
+      },
+      {
+          lyric:"jinakom jina"
+      },
+      {
+          lyric:"l guerra wrwina"
+      },
+      {
+          lyric:"UBI lli tzaahhiina"
+      },
+      {
+          lyric:"(x2)"
+      },
+      {
+          lyric:"bzaaf nabghik wya zer9a"
+      },
+      {
+          lyric:"ya raayeh win raayhaa"
+      },
+      {
+          lyric:"ntiya 3amri ntiya ma viee"
+      },
+      {
+          lyric:"nahwaak ana mn sooghriii"
+      },
+      ],
       active: false,
     },
     
@@ -222,6 +897,53 @@ function chillHop() {
       audio: song18,
       color: ["#06424D", "#A1C0EE"],
       id: uuidv4(),
+      lyrics:[
+      {
+          lyric:"Ooooohéééé ohoéhoooo"
+      },
+      {
+          lyric:"Lalalalalalalalalalalaaaaa"
+      },
+      {
+          lyric:"(x2)"
+      },
+      {
+          lyric:"Aléaléaléaléo (clap x2)"
+      },
+      {
+          lyric:"Aléaléaléaléo (clap x2)"
+      },
+      {
+          lyric:"Aléaléaléaléoooooooooooooooo (clap x2)"
+      },
+      {
+          lyric:"(x2)"
+      },
+      {
+          lyric:"Ooooohééééohoéhoooo"
+      },
+      {
+          lyric:"bouugez sans arrêt"
+      },
+      {
+          lyric:"aallez ndiro l courage"
+      },
+      {
+          lyric:"wncha3loha fkol mkaan"
+      },
+      {
+          lyric:"mn kol centre jina (clap x2)"
+      },
+      {
+          lyric:"l'INPT bghina (clap x2)"
+      },
+      {
+          lyric:"les Bleu INEs hiya lli tzahhinaa"
+      },
+      {
+          lyric:"(x2)"
+      }
+      ],
       active: false,
     },
     
@@ -232,6 +954,68 @@ function chillHop() {
       audio: song19,
       color: ["#06424D", "#A1C0EE"],
       id: uuidv4(),
+      lyrics:[
+      {
+          lyric:"les Bleus INEs à vie fidellé"
+      },
+      {
+          lyric:"vamos magica mi amoore"
+      },
+      {
+          lyric:"zar9a wbayda ya sakna baalii"
+      },
+      {
+          lyric:"avanti manwalliwch lor"
+      },
+      {
+          lyric:"3a9liya matadooor"
+      },
+      {
+          lyric:"les bleus INEs la storia graande"
+      },
+      {
+          lyric:"te quiero mi corazzoon"
+      },
+      {
+          lyric:"wa3lik ya zer9a raani ngheeenni"
+      },
+      {
+          lyric:"wmayakhla3na hetta 9anon"
+      },
+      {
+          lyric:"wchkon yahbasna chkoooon"
+      },
+      {
+          lyric:"allo allo cha3lat lahrii9aa"
+      },
+      {
+          lyric:"wm3a signal pyro shooow"
+      },
+      {
+          lyric:"INE farhan fkol d9iii9aa"
+      },
+      {
+          lyric:"zoomer l camera kolchi flou"
+      },
+      {
+          lyric:"UBI siamo noi"
+      },
+      {
+          lyric:"Eh dallé dallé dallé daaallé"
+      },
+      {
+          lyric:"Eh dallé dallé dallé oooh"
+      },
+      {
+          lyric:"Eh dallé dallé dallé daaallé"
+      },
+      {
+          lyric:"Eh dallé dallé dallé oooh"
+      },
+      {
+          lyric:"Daaallé oooh"
+      },
+      ],
       active: false,
     },
     
@@ -242,6 +1026,62 @@ function chillHop() {
       audio: song21,
       color: ["#06424D", "#A1C0EE"],
       id: uuidv4(),
+      lyrics:[
+      {
+          lyric:"naassi denya belli fiha"
+      },
+      {
+          lyric:"nassi denya mataswach"
+      },
+      {
+          lyric:"zar9a wbeyda lli nebghiha"
+      },
+      {
+          lyric:"biha madroguer wmanas7ach"
+      },
+      {
+          lyric:"(x2)"
+      },
+      {
+          lyric:"hiya doookha"
+      },
+      {
+          lyric:"hiya l hiroine"
+      },
+      {
+          lyric:"hiya hyaaatna"
+      },
+      {
+          lyric:"lli biha maghromin"
+      },
+      {
+          lyric:"(x2)"
+      },
+      {
+          lyric:"ooh oho aya yo oo (x2)"
+      },
+      {
+          lyric:"hadra lmentalita f journée mfixer bachi"
+      },
+      {
+          lyric:"ultras style de vita m3ak ya zer9a jamais n lâcher"
+      },
+      {
+          lyric:"capo f yeddo mégaphone"
+      },
+      {
+          lyric:"wana netsenna f départ"
+      },
+      {
+          lyric:"kinasma3 kalmat BLEUS INES"
+      },
+      {
+          lyric:"ma3labalich nach3al nar"
+      },
+      {
+          lyric:"ooh oho aya yo oo (x2)"
+      },
+      ],
       active: false,
     },
     
@@ -252,11 +1092,63 @@ function chillHop() {
       audio: song23,
       color: ["#06424D", "#A1C0EE"],
       id: uuidv4(),
+      lyrics:[
+      {
+          lyric:"Aaamouure biha yajma3na"
+      },
+      {
+          lyric:"w3la chaanha ndiro la gueeere"
+      },
+      {
+          lyric:"Bleus INEs hiya lli tzahhina"
+      },
+      {
+          lyric:"jamais nansaw les souveniiirs"
+      },
+      {
+          lyric:"w 2009 Bleus INEs t2assat"
+      },
+      {
+          lyric:"wfga3 les journées raha dowaaat"
+      },
+      {
+          lyric:"hkaaaya 3amra ibda3at"
+      },
+      {
+          lyric:"3achna m3aha dikrayaat (x2)"
+      },
+      {
+          lyric:"w l'hiiistoire daroha rijaal"
+      },
+      {
+          lyric:"kola wfin laahto la9daaar"
+      },
+      {
+          lyric:"w seeenza fine w mazaal"
+      },
+      {
+          lyric:"ya rebbi towal la3maaar"
+      },
+      {
+          lyric:"f deeenya maydom lhaal"
+      },
+      {
+          lyric:"jaamais nansaaw lli saaar"
+      },
+      {
+          lyric:"zaaar9a toujours flbaal"
+      },
+      {
+          lyric:"wnsorha ya l3ali ya settaaarr (x2)"
+      },
+      {
+          lyric:"eeehooo eh allez oh allez ya allez ya allez allez ooh (x4)"
+      },
+      ],
       active: false,
     },
     
 
-    //ADD MORE HERE
   ];
 }
 

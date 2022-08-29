@@ -5,6 +5,7 @@ import "./styles/app.scss";
 import data from "./playlist";
 import Library from "./components/Library";
 import Nav from "./components/Nav";
+import Lyrics from "./components/Lyrics";
 
 function App() {
 
@@ -40,8 +41,13 @@ function App() {
     if (isPlaying) audioRef.current.play();
   };
   return (
-    <div className={`App ${libraryStatus ? "library-active" : ""}`}>
+    <div className={`App ${libraryStatus ? "library-active" : ""} ${lyricsStatus ? "lyrics-active" : ""} `}>
       <Nav libraryStatus={libraryStatus} setLibraryStatus={setLibraryStatus} />
+      <Lyrics 
+        currentSong={currentSong}
+        lyricsStatus={lyricsStatus}
+        setLyricsStatus={setLyricsStatus}
+      />
       <Library
         audioRef={audioRef}
         songs={songs}

@@ -1,5 +1,6 @@
 .song-container {
   min-height: 60vh;
+  max-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -9,16 +10,39 @@
     border-radius: 50%;
   }
   h2 {
-    padding: 3rem 1rem 1rem 1rem;
+    padding: 2rem 1rem 1rem 1rem;
   }
   h3 {
     font-size: 1rem;
+  }
+  Button {
+    position: relative;
+    font-size: 1.1rem;
+    padding:12px 30px;
+    top: 20px;
+    // font-weight: bold;
+    align-items: center;
+    transition: all 0.5s;
+    border: none;
+    color: rgb(82, 66, 66);
+    margin-bottom: 30px;
+    border-radius: 1px;
+    font-family: "Lato", sans-serif;
+    background: linear-gradient(315deg, rgba(255,255,255,1) 0%, rgba(214,214,214,1) 0%, rgba(191,191,191,1) 58%, rgba(207,207,207,1) 100%);
+    cursor: pointer;
+    
+  }
+  Button:hover{
+    transform: scale(1.1);
   }
 }
 @media screen and (max-width: 768px) {
   .song-container {
     img {
       width: 50%;
+    }
+    Button{
+      margin-bottom: 10px;
     }
   }
 }
