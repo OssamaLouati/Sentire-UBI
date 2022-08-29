@@ -13,6 +13,7 @@ function App() {
   const [isPlaying, setIsPlaying] = useState(false);
   const audioRef = useRef(null);
   const [libraryStatus, setLibraryStatus] = useState(false);
+  const [lyricsStatus, setLyricsStatus] = useState(false);
   const timeUpdateHandler = (e) => {
     const current = e.target.currentTime;
     const duration = e.target.duration;
@@ -49,7 +50,11 @@ function App() {
         isPlaying={isPlaying}
         libraryStatus={libraryStatus}
       />
-      <Song currentSong={currentSong} />
+      <Song 
+        currentSong={currentSong}
+        lyricsStatus={lyricsStatus} 
+        setLyricsStatus={setLyricsStatus} 
+      />
       <Player
         audioRef={audioRef}
         isPlaying={isPlaying}

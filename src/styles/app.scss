@@ -22,6 +22,9 @@ h4 {
 .library-active {
   margin-left: 20%;
 }
+.lyrics-active {
+  margin-right: 20%;
+}
 
 .footer {
   font-weight: 600;
@@ -42,3 +45,4 @@ h4 {
 @import "./player";
 @import "./library";
 @import "./nav";
+@import "./lyrics";
