@@ -68,10 +68,10 @@ input[type="range"]::-moz-slider-thumb {
 }
 
 @media screen and (max-width: 800px) {
-  // .player{
-  //   position: relative;
-  //   top: -30px;
-  // }
+  .player{
+    position: relative;
+    top: -30px;
+  }
   .time-control {
     width: 90%;
   }
