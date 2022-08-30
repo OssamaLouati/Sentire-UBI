@@ -41,6 +41,12 @@ h4 {
   text-decoration: none;
 }
 
+@media screen and (max-width: 768px) {
+  .lyrics-active {
+    margin: 5%;
+  }
+}
+
 @import "./song";
 @import "./player";
 @import "./library";
