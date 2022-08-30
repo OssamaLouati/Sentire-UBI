@@ -36,6 +36,11 @@
     transform: scale(1.1);
   }
 }
+
+.micro{
+  margin-right: 0.5em;
+}
+
 @media screen and (max-width: 768px) {
   .song-container {
     img {
