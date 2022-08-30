@@ -15,18 +15,17 @@
   h3 {
     font-size: 1rem;
   }
-  Button {
+  button {
     position: relative;
     font-size: 1.1rem;
     padding:12px 30px;
-    top: 20px;
-    // font-weight: bold;
+    top: 25px;
     align-items: center;
     transition: all 0.5s;
     border: none;
     color: rgb(82, 66, 66);
-    margin-bottom: 30px;
-    border-radius: 1px;
+    margin-bottom: 20px;
+    border-radius: 0px 50px 0px 50px;
     font-family: "Lato", sans-serif;
     background: linear-gradient(315deg, rgba(255,255,255,1) 0%, rgba(214,214,214,1) 0%, rgba(191,191,191,1) 58%, rgba(207,207,207,1) 100%);
     cursor: pointer;
@@ -47,7 +46,7 @@
       width: 50%;
     }
     Button{
-      margin-bottom: 10px;
+      margin-bottom: 0px;
     }
   }
 }
