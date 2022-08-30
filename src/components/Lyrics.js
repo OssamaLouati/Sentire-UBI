@@ -1,11 +1,10 @@
-import React from 'react'
+import React from 'react';
 
 
 const Lyrics = ({
   currentSong,
   lyricsStatus,
   setLyricsStatus,
-
   }) => {
   return (
     <div className={`lyrics ${lyricsStatus ? "active-lyrics" : ""}`}>
@@ -19,4 +18,4 @@ const Lyrics = ({
   );
 };
 
-export default Lyrics
+export default Lyrics;
