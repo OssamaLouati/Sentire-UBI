@@ -3,6 +3,9 @@
 
 
 <p align="center">💙🤍No Pyro No Party💙🤍</p>
+<p align="center">
+    <img  src="src/assets/images/website.png">
+</p>
 
 <br>
 I built this music plateforme for the sake of new INPT Students to easily memorise and enjoy UBI songs, so that whenever there is a Repition taking place they will have fun while singing and moving with the vide among all INPT Student at "Les Gradins", i hope you enjoy it :)
