@@ -286,6 +286,18 @@ function chillHop() {
         {
           lyric:"Vamos inpt roma wla paris"
         },
+        {
+          lyric:"ohohoo ohouhoo ohohoo (x3)"
+        },
+        {
+          lyric:"Allez les bleus"
+        },
+        {
+          lyric:"ohohoo ohouhoo ohohoo (x3)"
+        },
+        {
+          lyric:"Les bleus INEs"
+        },
       ], 
       active: false,
     },
@@ -470,31 +482,49 @@ function chillHop() {
       id: uuidv4(),
       lyrics:[
         {
-          lyric:"BI MI CORAZON"
+          lyric:"Besmek ya zar9a ra nghani BI la grande"
         },
         {
-          lyric:"o 3liha rani ngheni"
+          lyric:"W lwank yjriw f dmi w sakno fi 9albi"
         },
         {
-          lyric:"Mi vida mi passion"
+          lyric:"Ntiya bouya ntiya khouya w ntiya saahbi"
         },
         {
-          lyric:"o hwaha rah f demi"
+          lyric:"W l3alm raabi"
         },
         {
-          lyric:"{x2}"
+          lyric:"Mi corazon ki netfeker crackage colommbiii"
         },
         {
-          lyric:"Bougezz (x2)"
+          lyric:"Hejna 3lihom f 2016 f l’ehtp"
         },
         {
-          lyric:"Lalalalalalalalaaah (x2) "
+          lyric:"Rani meghroum bik ya la grandé l’inpt"
         },
         {
-          lyric:"Bougezz (x2)"
+          lyric:"Les bleu avantéééé"
         },
         {
-          lyric:"Lalalalalalalalaaah (x2) "
+          lyric:"Joueezzzz (x2) "
+        },
+        {
+          lyric:"Les bleu ines tfera7 l9louuuub"
+        },
+        {
+          lyric:"On vaaaaaaa gagnéééé"
+        },
+        {
+          lyric:"W l festival f kol écoooole"
+        },
+        {
+          lyric:"Allé yalé yalé yalézuré (x3)"
+        },
+        {
+          lyric:"Les bleus avantééé "
+        },
+        {
+          lyric:"Joueezzzz"
         },
       ], 
       active: false,
