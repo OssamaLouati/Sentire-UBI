@@ -26,4 +26,5 @@ UBI makes us live the vibe of belonging as we sing with one voice from our heart
   <img  src="src/assets/images/screen2.PNG">
 </p>
 
+
 ---
