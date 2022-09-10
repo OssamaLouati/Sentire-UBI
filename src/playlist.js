@@ -70,7 +70,7 @@ function chillHop() {
     },
     {
       name: "UNIDOS",
-      link:"../assets/UBI CHANTS/01 3AYCHIN MOLOUK.mp3",
+      link: song17,
       cover: cover ,
       artist: "Ultras Bleu Ines",
       audio: song17,
@@ -110,7 +110,7 @@ function chillHop() {
     
     {
       name: "CRAZY PUBLICO",
-      link:"../assets/UBI CHANTS/01 3AYCHIN MOLOUK.mp3",
+      link: song22,
       cover: cover ,
       artist: "Ultras Bleu Ines",
       audio: song22,
@@ -193,7 +193,7 @@ function chillHop() {
     
     {
       name: "HONORE LBANDERA",
-      link:"../assets/UBI CHANTS/01 3AYCHIN MOLOUK.mp3",
+      link: song20,
       cover: cover ,
       artist: "Ultras Bleu Ines",
       audio: song20,
@@ -257,7 +257,7 @@ function chillHop() {
     
     {
       name: "F LA CURVA",
-      link:"../assets/UBI CHANTS/01 3AYCHIN MOLOUK.mp3",
+      link: song2,
       cover: cover ,
       artist: "Ultras Bleu Ines",
       audio: song2,
@@ -309,7 +309,7 @@ function chillHop() {
     
     {
       name: "EMISTE YA DEMDOUMA",
-      link:"../assets/UBI CHANTS/01 3AYCHIN MOLOUK.mp3",
+      link: song3,
       cover: cover ,
       artist: "Ultras Bleu Ines",
       audio: song3,
@@ -382,7 +382,7 @@ function chillHop() {
     
     {
       name: "NSINI F DENYA",
-      link:"../assets/UBI CHANTS/01 3AYCHIN MOLOUK.mp3",
+      link: song4,
       cover: cover ,
       artist: "Ultras Bleu Ines",
       audio: song4,
@@ -431,7 +431,7 @@ function chillHop() {
     
     {
       name: "NIKO L INSEA",
-      link:"../assets/UBI CHANTS/01 3AYCHIN MOLOUK.mp3",
+      link: song5,
       cover: cover ,
       artist: "Ultras Bleu Ines",
       audio: song5,
@@ -483,7 +483,7 @@ function chillHop() {
     
     {
       name: "MI CORAZON",
-      link:"../assets/UBI CHANTS/01 3AYCHIN MOLOUK.mp3",
+      link: song6,
       cover: cover ,
       artist: "Ultras Bleu Ines",
       audio: song6,
@@ -541,7 +541,7 @@ function chillHop() {
     
     {
       name: "RYE7 YA L BNAY",
-      link:"../assets/UBI CHANTS/01 3AYCHIN MOLOUK.mp3",
+      link: song7,
       cover: cover ,
       artist: "Ultras Bleu Ines",
       audio: song7,
@@ -593,6 +593,7 @@ function chillHop() {
     
     {
       name: "ZER9A MI AMORE",
+      link: song8,
       cover: cover ,
       artist: "Ultras Bleu Ines",
       audio: song8,
@@ -635,6 +636,7 @@ function chillHop() {
       cover: cover ,
       artist: "Ultras Bleu Ines",
       audio: song9,
+      link: song9,
       color: ["#06424D", "#A1C0EE"],
       id: uuidv4(),
       lyrics:[
@@ -669,6 +671,7 @@ function chillHop() {
     {
       name: "SIAMO L INPT",
       cover: cover ,
+      link: song10,
       artist: "Ultras Bleu Ines",
       audio: song10,
       color: ["#06424D", "#A1C0EE"],
@@ -702,6 +705,7 @@ function chillHop() {
     {
       name: "BI MECORASSON",
       cover: cover ,
+      link: song11,
       artist: "Ultras Bleu Ines",
       audio: song11,
       color: ["#06424D", "#A1C0EE"],
@@ -738,6 +742,7 @@ function chillHop() {
     {
       name: "COURAGE",
       cover: cover ,
+      link: song12,
       artist: "Ultras Bleu Ines",
       audio: song12,
       color: ["#06424D", "#A1C0EE"],
@@ -780,6 +785,7 @@ function chillHop() {
     {
       name: "ZER9A W L BAYDA",
       cover: cover ,
+      link: song13,
       artist: "Ultras Bleu Ines",
       audio: song13,
       color: ["#06424D", "#A1C0EE"],
@@ -825,6 +831,7 @@ function chillHop() {
     {
       name: "OBRIGADO CAMPIONE",
       cover: cover ,
+      link: song14,
       artist: "Ultras Bleu Ines",
       audio: song14,
       color: ["#06424D", "#A1C0EE"],
@@ -867,6 +874,7 @@ function chillHop() {
     {
       name: "VAMOS",
       cover: cover ,
+      link: song15,
       artist: "Ultras Bleu Ines",
       audio: song15,
       color: ["#06424D", "#A1C0EE"],
@@ -894,6 +902,7 @@ function chillHop() {
     {
       name: "JINAKOM JINA",
       cover: cover ,
+      link: song16,
       artist: "Ultras Bleu Ines",
       audio: song16,
       color: ["#06424D", "#A1C0EE"],
@@ -933,6 +942,7 @@ function chillHop() {
     {
       name: "SANS ARRET",
       cover: cover ,
+      link: song18,
       artist: "Ultras Bleu Ines",
       audio: song18,
       color: ["#06424D", "#A1C0EE"],
@@ -990,6 +1000,7 @@ function chillHop() {
     {
       name: "LA STORIA GRANDE",
       cover: cover ,
+      link: song19,
       artist: "Ultras Bleu Ines",
       audio: song19,
       color: ["#06424D", "#A1C0EE"],
@@ -1062,6 +1073,7 @@ function chillHop() {
     {
       name: "NASSI DENYA",
       cover: cover ,
+      link: song21,
       artist: "Ultras Bleu Ines",
       audio: song21,
       color: ["#06424D", "#A1C0EE"],
@@ -1128,6 +1140,7 @@ function chillHop() {
     {
       name: "SENZA FINE ",
       cover: cover ,
+      link: song23,
       artist: "Ultras Bleu Ines",
       audio: song23,
       color: ["#06424D", "#A1C0EE"],
