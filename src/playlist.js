@@ -317,10 +317,10 @@ function chillHop() {
       id: uuidv4(),
       lyrics:[
         {
-          lyric:"L’Emste ya demdouma "
+          lyric:"L’Emiste ya demdouma "
         },
         {
-          lyric:"Ya wlad l 7oukouma"
+          lyric:"Ya wlid l 7oukouma"
         },
         {
           lyric:"Jamais tfout l7ouma Ra l colonel temma"
