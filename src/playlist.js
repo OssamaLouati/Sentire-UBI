@@ -28,6 +28,7 @@ function chillHop() {
   return [
     {
       name: "3AYCHIN MOLOUK",
+      link: song1,
       cover: cover ,
       artist: "Ultras Bleu Ines",
       audio: song1,
@@ -69,6 +70,7 @@ function chillHop() {
     },
     {
       name: "UNIDOS",
+      link:"../assets/UBI CHANTS/01 3AYCHIN MOLOUK.mp3",
       cover: cover ,
       artist: "Ultras Bleu Ines",
       audio: song17,
@@ -108,6 +110,7 @@ function chillHop() {
     
     {
       name: "CRAZY PUBLICO",
+      link:"../assets/UBI CHANTS/01 3AYCHIN MOLOUK.mp3",
       cover: cover ,
       artist: "Ultras Bleu Ines",
       audio: song22,
@@ -190,6 +193,7 @@ function chillHop() {
     
     {
       name: "HONORE LBANDERA",
+      link:"../assets/UBI CHANTS/01 3AYCHIN MOLOUK.mp3",
       cover: cover ,
       artist: "Ultras Bleu Ines",
       audio: song20,
@@ -253,6 +257,7 @@ function chillHop() {
     
     {
       name: "F LA CURVA",
+      link:"../assets/UBI CHANTS/01 3AYCHIN MOLOUK.mp3",
       cover: cover ,
       artist: "Ultras Bleu Ines",
       audio: song2,
@@ -304,6 +309,7 @@ function chillHop() {
     
     {
       name: "EMISTE YA DEMDOUMA",
+      link:"../assets/UBI CHANTS/01 3AYCHIN MOLOUK.mp3",
       cover: cover ,
       artist: "Ultras Bleu Ines",
       audio: song3,
@@ -376,6 +382,7 @@ function chillHop() {
     
     {
       name: "NSINI F DENYA",
+      link:"../assets/UBI CHANTS/01 3AYCHIN MOLOUK.mp3",
       cover: cover ,
       artist: "Ultras Bleu Ines",
       audio: song4,
@@ -424,6 +431,7 @@ function chillHop() {
     
     {
       name: "NIKO L INSEA",
+      link:"../assets/UBI CHANTS/01 3AYCHIN MOLOUK.mp3",
       cover: cover ,
       artist: "Ultras Bleu Ines",
       audio: song5,
@@ -475,6 +483,7 @@ function chillHop() {
     
     {
       name: "MI CORAZON",
+      link:"../assets/UBI CHANTS/01 3AYCHIN MOLOUK.mp3",
       cover: cover ,
       artist: "Ultras Bleu Ines",
       audio: song6,
@@ -532,6 +541,7 @@ function chillHop() {
     
     {
       name: "RYE7 YA L BNAY",
+      link:"../assets/UBI CHANTS/01 3AYCHIN MOLOUK.mp3",
       cover: cover ,
       artist: "Ultras Bleu Ines",
       audio: song7,

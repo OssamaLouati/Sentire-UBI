@@ -15,9 +15,21 @@
   h3 {
     font-size: 1rem;
   }
-  button {
+}
+
+.micro{
+  margin-right: 0.5em;
+}
+.Feature{
+  display: flex;
+  flex-direction: row;
+  gap: 1em;
+  align-items: center;
+  justify-content: center;
+  .btn-1 {
     position: relative;
-    font-size: 1.1rem;
+    font-size: 0.9rem;
+    width: 150px;
     padding:12px 30px;
     top: 25px;
     align-items: center;
@@ -31,14 +43,30 @@
     cursor: pointer;
     
   }
-  Button:hover{
+  .btn-1:hover{
+    transform: scale(1.1);
+  }
+  .btn-2{
+    position: relative;
+    font-size: 0.9rem;
+    width: 150px;
+    padding:12px 30px;
+    top: 25px;
+    align-items: center;
+    border-radius:50px 0px 50px 0px ;
+    transition: all 0.5s;
+    border: none;
+    color: rgb(82, 66, 66);
+    margin-bottom: 30px;
+    font-family: "Lato", sans-serif;
+    background: linear-gradient(315deg, rgba(255,255,255,1) 0%, rgba(214,214,214,1) 0%, rgba(191,191,191,1) 58%, rgba(207,207,207,1) 100%);
+    cursor: pointer;
+  }
+  .btn-2:hover{
     transform: scale(1.1);
   }
 }
 
-.micro{
-  margin-right: 0.5em;
-}
 
 @media screen and (max-width: 800px) {
   .song-container {
