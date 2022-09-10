@@ -13,7 +13,7 @@ const Song = ({ currentSong, lyricsStatus, setLyricsStatus }) => {
         <button className="btn-1" onClick={() => setLyricsStatus(!lyricsStatus)}><FontAwesomeIcon className="micro" icon={faMicrophone} />{" "}Lyrics</button>
         
         <a href={currentSong.link} download>
-          <button className="btn-2">Download{" "}<FontAwesomeIcon className="micro" icon={faDownload} /></button>
+          <button className="btn-2">Download{" "}<FontAwesomeIcon className="micro0" icon={faDownload} /></button>
         </a>
 
       </div>
