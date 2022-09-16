@@ -52,7 +52,7 @@ function chillHop() {
           lyric:"Ya lbenay o ya lbenay ya li 3ayech b lghaba"
         },
         {
-          lyric:"Dik l’ecole jm3at les gay ch7al fiha dial l3enaba"
+          lyric:"Dik l’ecole jm3at les gays ch7al fiha dial l3enaba"
         },
         {
           lyric:"Ya lfella7 o ya lfella7 ya li 3ayeh f lkouri"
@@ -1202,7 +1202,7 @@ function chillHop() {
       active: false,
     },
     {
-      name: "COMME D'ABITUDE ( New )",
+      name: "COMME D'HABITUDE ( New )",
       cover: cover ,
       link: song24,
       artist: "Ultras Bleu Ines",
