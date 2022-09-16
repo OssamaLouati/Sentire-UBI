@@ -14,7 +14,7 @@ I built this music plateforme for the sake of new INPT Students to easily memori
 UBI makes us live the vibe of belonging as we sing with one voice from our hearts showing to all people our loyalty, our love and how much we are proud to be a part of a second home, a very special family, the BLEU INES family.
 
 ## Details : 
-- A Responsive Web-App to enjoy and memoruse UBI Songs.
+- A Responsive Web-App to enjoy and memorise UBI Songs.
 - Developed using ReactJS.
 - Beautiful styling using SASS.
 - Deployed on Vercel.
