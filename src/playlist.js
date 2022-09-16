@@ -1220,9 +1220,6 @@ function chillHop() {
           lyric:"(x2)"
       },
       {
-          lyric:"jamais nansaw les souveniiirs"
-      },
-      {
           lyric:"Alé alé alé alé alé alé oh"
       },
       {
