@@ -2,7 +2,7 @@
 nav {
   min-height: 10vh;
   display: flex;
-  justify-content: space-around;
+  justify-content:space-around;
   align-items: center;
   span{
     text-transform: uppercase;
@@ -15,7 +15,7 @@ nav {
     );
     background-size: auto auto;
     position: relative;
-    left: 20%;
+    right: 3.5%;
     top: 5px;
     background-clip: border-box;
     background-size: 200% auto;
