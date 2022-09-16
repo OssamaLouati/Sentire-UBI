@@ -22,6 +22,7 @@ import song20 from './assets/UBI CHANTS/20 HONORE LBANDERA.mp3';
 import song21 from './assets/UBI CHANTS/21 NASSI DENYA.mp3';
 import song22 from './assets/UBI CHANTS/22 CRAZY PUBLICO.mp3';
 import song23 from './assets/UBI CHANTS/23 SENZA FINE.mp3';
+import song24 from './assets/UBI CHANTS/24 COMME DABITUDE.mp3';
 import cover from './assets/images/cover.jpg';
 
 function chillHop() {
@@ -1197,6 +1198,112 @@ function chillHop() {
       {
           lyric:"eeehooo eh allez oh allez ya allez ya allez allez ooh (x4)"
       },
+      ],
+      active: false,
+    },
+    {
+      name: "COMME D'ABITUDE ( New )",
+      cover: cover ,
+      link: song24,
+      artist: "Ultras Bleu Ines",
+      audio: song24,
+      color: ["#06424D", "#A1C0EE"],
+      id: uuidv4(),
+      lyrics:[
+      {
+          lyric:"Wlalalalalalaa"
+      },
+      {
+          lyric:"Ohooooho aléyaléalé oh"
+      },
+      {
+          lyric:"(x2)"
+      },
+      {
+          lyric:"jamais nansaw les souveniiirs"
+      },
+      {
+          lyric:"Alé alé alé alé alé alé oh"
+      },
+      {
+          lyric:"(clap x3)"
+      },
+      {
+          lyric:"(x3)"
+      },
+      {
+          lyric:"Comme d'habitude wlyoma jina"
+      },
+      {
+          lyric:"Les INPTistes wndiro lli 3lina"
+      },
+      {
+          lyric:"3la lwan lghalya hallina 3inina "
+      },
+      {
+          lyric:"Les Bleu INEs hiya lli tzahhina"
+      },
+      {
+          lyric:"Zar9a wlbayda tu quiero mi amore"
+      },
+      {
+          lyric:"(clap x3)"
+      },
+      {
+          lyric:"N3icho la belle vie m3aha jusqu'à la mort "
+      },
+      {
+          lyric:"(clap x3)"
+      },
+      {
+          lyric:"(x2)"
+      },
+      {
+          lyric:"Ngoloha ga3 hadi la vérité "
+      },
+      {
+          lyric:"Nhabboha fort hasta la muerte "
+      },
+      {
+          lyric:"Dima fi bali mnghirha ma yahla li"
+      },
+      {
+          lyric:"M3aha jowwal toujours chaghla bali"
+      },
+      {
+          lyric:"Fwlad zar9a rakom mzl ghaltin"
+      },
+      {
+          lyric:"(clap x3)"
+      },
+      {
+          lyric:"Toujours m3aha winma troh rayhin"
+      },
+      {
+          lyric:"(clap x3)"
+      },
+      {
+          lyric:"(x2)"
+      },
+      {
+          lyric:"Wlalalalalalaa"
+      },
+      {
+          lyric:"Ohooooho aléyaléalé oh"
+      },
+      {
+          lyric:"(x2)"
+      },
+      {
+          lyric:"Alé alé alé alé alé alé oh"
+      },
+      {
+          lyric:"(clap x3)"
+      },
+      {
+          lyric:"(x3)"
+      },
+      
       ],
       active: false,
     },
