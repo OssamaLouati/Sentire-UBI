@@ -1202,7 +1202,7 @@ function chillHop() {
       active: false,
     },
     {
-      name: "COMME D'HABITUDE ( New )",
+      name: "COMME D'HABITUDE",
       cover: cover ,
       link: song24,
       artist: "Ultras Bleu Ines",
