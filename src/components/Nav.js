@@ -8,7 +8,7 @@ const Nav = ({ libraryStatus, setLibraryStatus }) => {
       <h1>
         UBI <FontAwesomeIcon icon={faDrum} /> La Magica
       </h1>
-      {/* <span>New song</span> */}
+      <span>NEW SONG</span>
       <button onClick={() => setLibraryStatus(!libraryStatus)}>
          Library <FontAwesomeIcon icon={faMusic} />
       </button>
