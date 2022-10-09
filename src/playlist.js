@@ -38,7 +38,7 @@ function chillHop() {
       id: uuidv4(),
       lyrics:[
         {
-          lyric:"Mameyo mi vida senza zora"
+          lyric:"Mameyo ni vida senza zora"
         },
         {
           lyric:"Mameyo cabeza beha loca "
