@@ -24,10 +24,110 @@ import song22 from './assets/UBI CHANTS/22 CRAZY PUBLICO.mp3';
 import song23 from './assets/UBI CHANTS/23 SENZA FINE.mp3';
 import song24 from './assets/UBI CHANTS/24 COMME DABITUDE.mp3';
 import song25 from './assets/UBI CHANTS/25 MAMEYO.mp3';
+import song26 from './assets/UBI CHANTS/26 YALLAH NODO YAL 3ZARA.mp3';
 import cover from './assets/images/new_cover.jpg';
 
 function chillHop() {
   return [
+    {
+      name: "YALLAH NODO YAL 3ZARA",
+      link: song26,
+      cover: cover ,
+      artist: "Ultras Bleu Ines",
+      audio: song26,
+      color: ["#06424D", "#A1C0EE"],
+      id: uuidv4(),
+      lyrics:[
+        {
+          lyric:"o yalah nodo ya la3zara w golo m3ana "
+        },
+        {
+          lyric:"W zarqa wlbayda ya 3omriii"
+        },
+        {
+          lyric:"w paaalmares ya7ki elinaaa ya wmn bakri "
+        },
+        {
+          lyric:"UBi nbghiha mn soghriiii"
+        },
+        {
+          lyric:"Ya roo7 khtiha ya Lghomri"
+        },
+        {
+          lyric:"W zaaaaarqa ya mon amour "
+        },
+        {
+          lyric:"Elachanak ntiya kola journee rani à jour"
+        },
+        {
+          lyric:"ohhoohhhoohooo"
+        },
+        {
+          lyric:"UBI joue joue"
+        },
+        {
+          lyric:"F ga3 les école dawii"
+        },
+        {
+          lyric:"L bleu ines 3ayach khalwi"
+        },
+        {
+          lyric:"Ohohhoooooh"
+        },
+        {
+          lyric:"         "
+        },
+        {
+          lyric:"Ensiaaas dar da3ara ktro lbnaat "
+        },
+        {
+          lyric:"hadi école lharibaaat "
+        },
+        {
+          lyric:"Whdaaa tbkii whda tchkii ga3ma t3chat"
+        },
+        {
+          lyric:"Kil3ada l gamila t7rgaaat "
+        },
+        {
+          lyric:"Ga3ma kisd9o lwasafaaat"
+        },
+        {
+          lyric:""
+        },
+        {
+          lyric:"wl3iiirfaaan fiha wliya chomicha chalotiya "
+        },
+        {
+          lyric:"Kadal tl7ass fl7ssasbia"
+        },
+        {
+          lyric:"Ohohooohoooo "
+        },
+        {
+          lyric:"Ga3 les ines Bagcia "
+        },
+        {
+          lyric:"7ata w l3aqliya "
+        },
+        {
+          lyric:"Mentalité gawriya "
+        },
+        {
+          lyric:"Ohohhoooooh"
+        },
+        {
+          lyric:"W lalalalallaa lala la laaa "
+        },
+        {
+          lyric:"Ohohohohohohhoooo (x2)"
+        },
+        {
+          lyric:"(x2)"
+        },
+      ],
+      active: true,
+    },
     {
       name: "MAMEYO -NEW-",
       link: song25,
@@ -83,7 +183,7 @@ function chillHop() {
           lyric:"(x2)"
         },
       ],
-      active: true,
+      active: false,
     },
     {
       name: "COMME D'HABITUDE ",
