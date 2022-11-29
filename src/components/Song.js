@@ -10,6 +10,7 @@ const Song = ({ currentSong, lyricsStatus, setLyricsStatus }) => {
       <h2>{currentSong.name}</h2>
       <h3>{currentSong.artist}</h3>
       <div className="Feature">
+    
         <button className="btn-1" onClick={() => setLyricsStatus(!lyricsStatus)}><FontAwesomeIcon className="micro" icon={faMicrophone} />{" "}Lyrics</button>
         
         <a href={currentSong.link} download>

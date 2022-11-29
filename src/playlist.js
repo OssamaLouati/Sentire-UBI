@@ -129,7 +129,7 @@ function chillHop() {
       active: true,
     },
     {
-      name: "MAMEYO -NEW-",
+      name: "MAMEYO",
       link: song25,
       cover: cover ,
       artist: "Ultras Bleu Ines",
