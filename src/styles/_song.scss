@@ -42,7 +42,8 @@
     margin-bottom: 30px;
     border-radius: 0px 50px 0px 50px;
     font-family: "Lato", sans-serif;
-    background: linear-gradient(315deg, rgba(255,255,255,1) 0%, rgba(214,214,214,1) 0%, rgba(191,191,191,1) 58%, rgba(207,207,207,1) 100%);
+    background-image: linear-gradient(to right, #717fa5 0%, #D7DDE8  100%, #757F9A  100%);
+    // background: linear-gradient(315deg, rgba(255,255,255,1) 0%, rgba(214,214,214,1) 0%, rgba(191,191,191,1) 58%, rgba(207,207,207,1) 100%);
     cursor: pointer;
     
   }
@@ -62,7 +63,8 @@
     color: rgb(82, 66, 66);
     margin-bottom: 30px;
     font-family: "Lato", sans-serif;
-    background: linear-gradient(315deg, rgba(255,255,255,1) 0%, rgba(214,214,214,1) 0%, rgba(191,191,191,1) 58%, rgba(207,207,207,1) 100%);
+    background-image: linear-gradient(to right, #717fa5 0%, #D7DDE8  0%, #757F9A  100%);
+    // background: linear-gradient(315deg, rgba(255,255,255,1) 0%, rgba(214,214,214,1) 0%, rgba(191,191,191,1) 58%, rgba(207,207,207,1) 100%);
     cursor: pointer;
   }
   .btn-2:hover{
