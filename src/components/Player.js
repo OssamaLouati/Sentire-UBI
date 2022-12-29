@@ -1,4 +1,4 @@
-import React from "react";
+import React, {useEffect} from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faPlay,
@@ -44,6 +44,25 @@ const Player = ({
       setIsPlaying(!isPlaying);
     }
   };
+  useEffect(() => {
+    function handleKey(event) {
+      if (event.key === ' ') {
+        if (isPlaying) {
+          audioRef.current.pause();
+          setIsPlaying(!isPlaying);
+        } else {
+          audioRef.current.play();
+          setIsPlaying(!isPlaying);
+        }
+      }
+    }
+
+    document.addEventListener('keydown', handleKey);
+
+    return () => {
+      document.removeEventListener('keydown', handleKey);
+    };
+  }, []);
 
   const getTime = (time) => {
     return (
