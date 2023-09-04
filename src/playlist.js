@@ -30,104 +30,137 @@ import cover from './assets/images/new_cover.jpg';
 function chillHop() {
   return [
     {
-      name: "YALLAH NODO YAL 3ZARA",
-      link: song26,
+      name: "SIAMO L INPT",
       cover: cover ,
+      link: song10,
       artist: "Ultras Bleu Ines",
-      audio: song26,
+      audio: song10,
       color: ["#06424D", "#A1C0EE"],
       id: uuidv4(),
       lyrics:[
-        {
-          lyric:"o yalah nodo ya la3zara w golo m3ana "
-        },
-        {
-          lyric:"W zarqa wlbayda ya 3omriii"
-        },
-        {
-          lyric:"w paaalmares ya7ki elinaaa ya wmn bakri "
-        },
-        {
-          lyric:"UBi nbghiha mn soghriiii"
-        },
-        {
-          lyric:"Ya roo7 khtiha ya Lghomri"
-        },
-        {
-          lyric:"W zaaaaarqa ya mon amour "
-        },
-        {
-          lyric:"Elachanak ntiya kola journee rani à jour"
-        },
-        {
-          lyric:"ohhoohhhoohooo"
-        },
-        {
-          lyric:"UBI joue joue"
-        },
-        {
-          lyric:"F ga3 les école dawii"
-        },
-        {
-          lyric:"L bleu ines 3ayach khalwi"
-        },
-        {
-          lyric:"Ohohhoooooh"
-        },
-        {
-          lyric:"         "
-        },
-        {
-          lyric:"Ensiaaas dar da3ara ktro lbnaat "
-        },
-        {
-          lyric:"hadi école lharibaaat "
-        },
-        {
-          lyric:"Whdaaa tbkii whda tchkii ga3ma t3chat"
-        },
-        {
-          lyric:"Kil3ada l gamila t7rgaaat "
-        },
-        {
-          lyric:"Ga3ma kisd9o lwasafaaat"
-        },
-        {
-          lyric:""
-        },
-        {
-          lyric:"wl3iiirfaaan fiha wliya chomicha chalotiya "
-        },
-        {
-          lyric:"Kadal tl7ass fl7ssasbia"
-        },
-        {
-          lyric:"Ohohooohoooo "
-        },
-        {
-          lyric:"Ga3 les ines Bagcia "
-        },
-        {
-          lyric:"7ata w l3aqliya "
-        },
-        {
-          lyric:"Mentalité gawriya "
-        },
-        {
-          lyric:"Ohohhoooooh"
-        },
-        {
-          lyric:"W lalalalallaa lala la laaa "
-        },
-        {
-          lyric:"Ohohohohohohhoooo (x2)"
-        },
-        {
+      {
+          lyric:"les bleus INEs allez allez allez allez allez (x2)"
+      },
+      {
+          lyric:"Siamo l'INPT"
+      },
+      {
+          lyric:"wm3aha ra presente"
+      },
+      {
+          lyric:"a la vida a la muerte a la muerte a la muerte"
+      },
+      {
           lyric:"(x2)"
-        },
+      },
+      {
+          lyric:"lalalallallallalla lla lla lla lla lla lla lla allez (x2)"
+      },
+      {
+          lyric:"oohoo oho oho oho oho oho ohoo ohoooo"
+      },
       ],
-      active: false,
+      active: true,
     },
+    // {
+    //   name: "YALLAH NODO YAL 3ZARA",
+    //   link: song26,
+    //   cover: cover ,
+    //   artist: "Ultras Bleu Ines",
+    //   audio: song26,
+    //   color: ["#06424D", "#A1C0EE"],
+    //   id: uuidv4(),
+    //   lyrics:[
+    //     {
+    //       lyric:"o yalah nodo ya la3zara w golo m3ana "
+    //     },
+    //     {
+    //       lyric:"W zarqa wlbayda ya 3omriii"
+    //     },
+    //     {
+    //       lyric:"w paaalmares ya7ki elinaaa ya wmn bakri "
+    //     },
+    //     {
+    //       lyric:"UBi nbghiha mn soghriiii"
+    //     },
+    //     {
+    //       lyric:"Ya roo7 khtiha ya Lghomri"
+    //     },
+    //     {
+    //       lyric:"W zaaaaarqa ya mon amour "
+    //     },
+    //     {
+    //       lyric:"Elachanak ntiya kola journee rani à jour"
+    //     },
+    //     {
+    //       lyric:"ohhoohhhoohooo"
+    //     },
+    //     {
+    //       lyric:"UBI joue joue"
+    //     },
+    //     {
+    //       lyric:"F ga3 les école dawii"
+    //     },
+    //     {
+    //       lyric:"L bleu ines 3ayach khalwi"
+    //     },
+    //     {
+    //       lyric:"Ohohhoooooh"
+    //     },
+    //     {
+    //       lyric:"         "
+    //     },
+    //     {
+    //       lyric:"E****s dar da3ara ktro lbnaat "
+    //     },
+    //     {
+    //       lyric:"hadi école lharibaaat "
+    //     },
+    //     {
+    //       lyric:"Whdaaa tbkii whda tchkii ga3ma t3chat"
+    //     },
+    //     {
+    //       lyric:"Kil3ada l gamila t7rgaaat "
+    //     },
+    //     {
+    //       lyric:"Ga3ma kisd9o lwasafaaat"
+    //     },
+    //     {
+    //       lyric:""
+    //     },
+    //     {
+    //       lyric:"wl3iiirfaaan fiha wliya chomicha chalotiya "
+    //     },
+    //     {
+    //       lyric:"Kadal tl7ass fl7ssasbia"
+    //     },
+    //     {
+    //       lyric:"Ohohooohoooo "
+    //     },
+    //     {
+    //       lyric:"Ga3 les ines Bagcia "
+    //     },
+    //     {
+    //       lyric:"7ata w l3aqliya "
+    //     },
+    //     {
+    //       lyric:"Mentalité gawriya "
+    //     },
+    //     {
+    //       lyric:"Ohohhoooooh"
+    //     },
+    //     {
+    //       lyric:"W lalalalallaa lala la laaa "
+    //     },
+    //     {
+    //       lyric:"Ohohohohohohhoooo (x2)"
+    //     },
+    //     {
+    //       lyric:"(x2)"
+    //     },
+    //   ],
+    //   active: false,
+    // },
     {
       name: "MAMEYO",
       link: song25,
@@ -569,179 +602,179 @@ function chillHop() {
       active: false,
     },
     
-    {
-      name: "EMISTE YA DEMDOUMA",
-      link: song3,
-      cover: cover ,
-      artist: "Ultras Bleu Ines",
-      audio: song3,
-      color: ["#06424D", "#A1C0EE"],
-      id: uuidv4(),
-      lyrics:[
-        {
-          lyric:"L’Emiste ya demdouma "
-        },
-        {
-          lyric:"Ya wlid l 7oukouma"
-        },
-        {
-          lyric:"Jamais tfout l7ouma Ra l colonel temma"
-        },
-        {
-          lyric:"{x2}"
-        },
-        {
-          lyric:"L’Enime 7télinaha Lguerra nwednaha"
-        },
-        {
-          lyric:"Hebsouna f terrain"
-        },
-        {
-          lyric:"3arfouna holigans"
-        },
-        {
-          lyric:"Bleu INEs kamikas"
-        },
-        {
-          lyric:"Oohoo (x3)"
-        },
-        {
-          lyric:"Allez Allez"
-        },
-        {
-          lyric:"Oohoo (x3)"
-        },
-        {
-          lyric:"On va gagner"
-        },
-        {
-          lyric:"Oohoo (x3)"
-        },
-        {
-          lyric:"Hiya 3omri"
-        },
-        {
-          lyric:"Nebghiha men soghri"
-        },
-        {
-          lyric:"w m3aha ndéplacii"
-        },
-        {
-          lyric:"L’EHTP mchina"
-        },
-        {
-          lyric:"L3edyan 7arou fina"
-        },
-        {
-          lyric:"Galou hadou chay3iin"
-        },
-        {
-          lyric:"F niveau rah harbin (x2)"
-        },
-      ],
-      active: false,
-    },
+    // {
+    //   name: "EMISTE YA DEMDOUMA",
+    //   link: song3,
+    //   cover: cover ,
+    //   artist: "Ultras Bleu Ines",
+    //   audio: song3,
+    //   color: ["#06424D", "#A1C0EE"],
+    //   id: uuidv4(),
+    //   lyrics:[
+    //     {
+    //       lyric:"L’Emiste ya demdouma "
+    //     },
+    //     {
+    //       lyric:"Ya wlid l 7oukouma"
+    //     },
+    //     {
+    //       lyric:"Jamais tfout l7ouma Ra l colonel temma"
+    //     },
+    //     {
+    //       lyric:"{x2}"
+    //     },
+    //     {
+    //       lyric:"L’Enime 7télinaha Lguerra nwednaha"
+    //     },
+    //     {
+    //       lyric:"Hebsouna f terrain"
+    //     },
+    //     {
+    //       lyric:"3arfouna holigans"
+    //     },
+    //     {
+    //       lyric:"Bleu INEs kamikas"
+    //     },
+    //     {
+    //       lyric:"Oohoo (x3)"
+    //     },
+    //     {
+    //       lyric:"Allez Allez"
+    //     },
+    //     {
+    //       lyric:"Oohoo (x3)"
+    //     },
+    //     {
+    //       lyric:"On va gagner"
+    //     },
+    //     {
+    //       lyric:"Oohoo (x3)"
+    //     },
+    //     {
+    //       lyric:"Hiya 3omri"
+    //     },
+    //     {
+    //       lyric:"Nebghiha men soghri"
+    //     },
+    //     {
+    //       lyric:"w m3aha ndéplacii"
+    //     },
+    //     {
+    //       lyric:"L’EHTP mchina"
+    //     },
+    //     {
+    //       lyric:"L3edyan 7arou fina"
+    //     },
+    //     {
+    //       lyric:"Galou hadou chay3iin"
+    //     },
+    //     {
+    //       lyric:"F niveau rah harbin (x2)"
+    //     },
+    //   ],
+    //   active: false,
+    // },
     
-    {
-      name: "NSINI F DENYA",
-      link: song4,
-      cover: cover ,
-      artist: "Ultras Bleu Ines",
-      audio: song4,
-      color: ["#06424D", "#A1C0EE"],
-      id: uuidv4(),
-      lyrics:[
-        {
-          lyric:"Nssini f denya l’avenir maysswach"
-        },
-        {
-          lyric:"W ntiya 3iniya bla bik ma vie mat7lach"
-        },
-        {
-          lyric:"Jouer (x2)"
-        },
-        {
-          lyric:"ya ma cherie"
-        },
-        {
-          lyric:"Dawwi 3linaa dawwi yak nti la lumiere"
-        },
-        {
-          lyric:"Ya zar9aa ya 3omrii"
-        },
-        {
-          lyric:"Jibouha ya lwlad"
-        },
-        {
-          lyric:"7adrin f ga3 les journees kil3ada ra zahyin"
-        },
-        {
-          lyric:"Mcha3linha f ga3 les ecoles flammat w femigeen"
-        },
-        {
-          lyric:"W tifowat w craquageat b niveau ra hezat"
-        },
-        {
-          lyric:"Bleu ine ra 7ekmat w fga3 journiyat"
-        },
-        {
-          lyric:"W la la la la la la la la la la la laaa.."
-        },
-      ], 
-      active: false,
-    },
+    // {
+    //   name: "NSINI F DENYA",
+    //   link: song4,
+    //   cover: cover ,
+    //   artist: "Ultras Bleu Ines",
+    //   audio: song4,
+    //   color: ["#06424D", "#A1C0EE"],
+    //   id: uuidv4(),
+    //   lyrics:[
+    //     {
+    //       lyric:"Nssini f denya l’avenir maysswach"
+    //     },
+    //     {
+    //       lyric:"W ntiya 3iniya bla bik ma vie mat7lach"
+    //     },
+    //     {
+    //       lyric:"Jouer (x2)"
+    //     },
+    //     {
+    //       lyric:"ya ma cherie"
+    //     },
+    //     {
+    //       lyric:"Dawwi 3linaa dawwi yak nti la lumiere"
+    //     },
+    //     {
+    //       lyric:"Ya zar9aa ya 3omrii"
+    //     },
+    //     {
+    //       lyric:"Jibouha ya lwlad"
+    //     },
+    //     {
+    //       lyric:"7adrin f ga3 les journees kil3ada ra zahyin"
+    //     },
+    //     {
+    //       lyric:"Mcha3linha f ga3 les ecoles flammat w femigeen"
+    //     },
+    //     {
+    //       lyric:"W tifowat w craquageat b niveau ra hezat"
+    //     },
+    //     {
+    //       lyric:"Bleu ine ra 7ekmat w fga3 journiyat"
+    //     },
+    //     {
+    //       lyric:"W la la la la la la la la la la la laaa.."
+    //     },
+    //   ], 
+    //   active: false,
+    // },
     
-    {
-      name: "NIKO L INSEA",
-      link: song5,
-      cover: cover ,
-      artist: "Ultras Bleu Ines",
-      audio: song5,
-      color: ["#06424D", "#A1C0EE"],
-      id: uuidv4(),
-      lyrics:[
-        {
-          lyric:"Ohoooo ohooo voliamo l7oria "
-        },
-        {
-          lyric:"Ohoooo ohooo 3a9lia 3onsoria"
-        },
-        {
-          lyric:"Ohoooo ohooo niko l’insea"
-        },
-        {
-          lyric:"O ghir rebbi y7kem fia"
-        },
-        {
-          lyric:"O liberta nchlh lia "
-        },
-        {
-          lyric:"Hada attack l l3edian li rana nkarhohom"
-        },
-        {
-          lyric:"Hada message l7ssasasbi o bghina n3elmouhom"
-        },
-        {
-          lyric:"Wlh jamais tweslona ka ndiro li 3lina"
-        },
-        {
-          lyric:"Zar9a o lbayda nbghiwha nefdiwha b rwa7na"
-        },
-        {
-          lyric:"Les bleu ine les kamikass jihad 3la les couleurs"
-        },
-        {
-          lyric:"Rou7 m3ak l kol place  toujours avec honneur"
-        },
-        {
-          lyric:"Ultras mentalite voliamo liberte"
-        },
-        {
-          lyric:"BI chaque journee presente"
-        },
-      ],
-      active: false,
-    },
+    // {
+    //   name: "NIKO L INSEA",
+    //   link: song5,
+    //   cover: cover ,
+    //   artist: "Ultras Bleu Ines",
+    //   audio: song5,
+    //   color: ["#06424D", "#A1C0EE"],
+    //   id: uuidv4(),
+    //   lyrics:[
+    //     {
+    //       lyric:"Ohoooo ohooo voliamo l7oria "
+    //     },
+    //     {
+    //       lyric:"Ohoooo ohooo 3a9lia 3onsoria"
+    //     },
+    //     {
+    //       lyric:"Ohoooo ohooo niko l’insea"
+    //     },
+    //     {
+    //       lyric:"O ghir rebbi y7kem fia"
+    //     },
+    //     {
+    //       lyric:"O liberta nchlh lia "
+    //     },
+    //     {
+    //       lyric:"Hada attack l l3edian li rana nkarhohom"
+    //     },
+    //     {
+    //       lyric:"Hada message l7ssasasbi o bghina n3elmouhom"
+    //     },
+    //     {
+    //       lyric:"Wlh jamais tweslona ka ndiro li 3lina"
+    //     },
+    //     {
+    //       lyric:"Zar9a o lbayda nbghiwha nefdiwha b rwa7na"
+    //     },
+    //     {
+    //       lyric:"Les bleu ine les kamikass jihad 3la les couleurs"
+    //     },
+    //     {
+    //       lyric:"Rou7 m3ak l kol place  toujours avec honneur"
+    //     },
+    //     {
+    //       lyric:"Ultras mentalite voliamo liberte"
+    //     },
+    //     {
+    //       lyric:"BI chaque journee presente"
+    //     },
+    //   ],
+    //   active: false,
+    // },
     
     {
       name: "MI CORAZON",
@@ -930,39 +963,7 @@ function chillHop() {
       active: false,
     },
     
-    {
-      name: "SIAMO L INPT",
-      cover: cover ,
-      link: song10,
-      artist: "Ultras Bleu Ines",
-      audio: song10,
-      color: ["#06424D", "#A1C0EE"],
-      id: uuidv4(),
-      lyrics:[
-      {
-          lyric:"les bleus INEs allez allez allez allez allez (x2)"
-      },
-      {
-          lyric:"Siamo l'INPT"
-      },
-      {
-          lyric:"wm3aha ra presente"
-      },
-      {
-          lyric:"a la vida a la muerte a la muerte a la muerte"
-      },
-      {
-          lyric:"(x2)"
-      },
-      {
-          lyric:"lalalallallallalla lla lla lla lla lla lla lla allez (x2)"
-      },
-      {
-          lyric:"oohoo oho oho oho oho oho ohoo ohoooo"
-      },
-      ],
-      active: true,
-    },
+    
     
     {
       name: "BI MECORASSON",
