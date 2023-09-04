@@ -3,7 +3,7 @@
 
 
 <p align="center">💙🤍No Pyro No Party💙🤍</p>
-<p align="center"> <h1><strong>NOTE</strong>: This project was for fun and fun only, it doesn't reflect any personal opinions or preferences.</h1></p>
+<p align="center"> <h1><strong>NOTE</strong>: This project was made for fun and fun only, it doesn't reflect any personal opinions or preferences.</h1></p>
 <p align="center">
     <img  src="src/assets/images/website.png">
 </p>
