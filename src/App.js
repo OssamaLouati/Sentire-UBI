@@ -82,6 +82,7 @@ function App() {
       <h4 className="footer">
         Made with 💙🤍 by{" "} INE
       </h4>
+      <h6 className="footer">Note: this project was made just for fun, it doesn't reflect any personal preferences. Enjoy!</h6>
     </div>
   );
 }
