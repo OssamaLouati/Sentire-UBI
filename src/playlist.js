@@ -126,7 +126,7 @@ function chillHop() {
           lyric:"(x2)"
         },
       ],
-      active: true,
+      active: false,
     },
     {
       name: "MAMEYO",
@@ -961,7 +961,7 @@ function chillHop() {
           lyric:"oohoo oho oho oho oho oho ohoo ohoooo"
       },
       ],
-      active: false,
+      active: true,
     },
     
     {
